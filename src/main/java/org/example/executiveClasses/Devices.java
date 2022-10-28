@@ -55,5 +55,4 @@ public class Devices {
     public boolean isOnOff() {
         return onOff;
     }
-
 }
